@@ -1,0 +1,30 @@
+cmd.exe
+/X
+/C
+"C:\Users\gamin\.jdks\openjdk-15.0.1\bin\javadoc.exe @options @argfile"
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\allclasses-index.html = 1607542055507
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\allpackages-index.html = 1607542055510
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\argfile = 1607542054284
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\Calc.html = 1607542055415
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\Calculations.html = 1607542055425
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\constant-values.html = 1607542055448
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\deprecated-list.html = 1607542055475
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\element-list = 1607542055434
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\help-doc.html = 1607542055516
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\index-all.html = 1607542055502
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\index.html = 1607542055512
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\jquery-ui.overrides.css = 1607542055546
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\main.html = 1607542055432
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\member-search-index.js = 1607542055499
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\module-search-index.js = 1607542055496
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\options = 1607542054282
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\overview-tree.html = 1607542055470
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\package-search-index.js = 1607542055497
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\package-summary.html = 1607542055439
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\package-tree.html = 1607542055445
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\package-use.html = 1607542055467
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\script.js = 1607542055522
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\search.js = 1607542055524
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\stylesheet.css = 1607542055520
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\tag-search-index.js = 1607542055500
+C:\Users\gamin\IdeaProjects\Calculator\target\apidocs\type-search-index.js = 1607542055498
